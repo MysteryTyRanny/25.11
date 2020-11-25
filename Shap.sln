@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rabota 25.11", "Rabota 25.11\Rabota 25.11.vbproj", "{544B6C8D-DF2D-4571-8347-8874E48413DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544B6C8D-DF2D-4571-8347-8874E48413DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544B6C8D-DF2D-4571-8347-8874E48413DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544B6C8D-DF2D-4571-8347-8874E48413DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544B6C8D-DF2D-4571-8347-8874E48413DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48AC976-7618-45E6-A716-F8FA37FD9CFE}
+	EndGlobalSection
+EndGlobal
